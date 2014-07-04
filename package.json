@@ -1,6 +1,6 @@
 {
   "name": "readfiles",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Async read of an array of files. Reduces callback hell.",
   "main": "index.js",
   "directories": {
