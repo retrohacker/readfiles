@@ -8,3 +8,6 @@ readFiles(files,function(e,contents) {
   console.log(contents)
 })
 ```
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/retrohacker/readfiles.svg)](https://greenkeeper.io/)
